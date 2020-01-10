@@ -1,5 +1,19 @@
-# Deep Learning with PyTorch [Video]
-This is the code repository for [Deep Learning with PyTorch [Video]](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-pytorch-video?utm_source=github&utm_medium=repository&utm_campaign=9781788475266), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+# News Alect from webs
+This is the code repository for Python 3 is is designed to web scrapping a list of webs, looking for a list of words. 
+
+After that, the code create a file with the given news and send an email with those news. 
+
+The code is design to do this process each "t" seconds. 
+
+You can customize easly:
+	1-How much time you want to spend between each iteration.
+	2-The webs do you want to analize
+	3-And the words do you want to look for.
+	
+Finally you will need a config file with the emails from where do you want to send it and where do you want to send it.
+	
+	
+	Tof the codeis designed to [Deep Learning with PyTorch [Video]](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-pytorch-video?utm_source=github&utm_medium=repository&utm_campaign=9781788475266), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 	This video course will get you up-and-running with one of the most cutting-edge deep learning libraries: PyTorch. Written in Python, PyTorch is grabbing the attention of all data science professionals due to its ease of use over other libraries and its use of dynamic computation graphs. 
 
