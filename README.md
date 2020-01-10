@@ -6,9 +6,11 @@ After that, the code create a file with the given news and send an email with th
 The code is design to do this process each "t" seconds. 
 
 You can customize easly:
-	1-How much time you want to spend between each iteration.
-	2-The webs do you want to analize
-	3-And the words do you want to look for.
+<UL>
+<LI>How much time you want to spend between each iteration.</LI>
+<LI>The webs do you want to analize</LI>
+<LI>And the words do you want to look for.</LI></UL>
+	
 	
 Finally you will need a config file with the emails from where do you want to send it and where do you want to send it.
 	
